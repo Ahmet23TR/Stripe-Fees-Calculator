@@ -1,0 +1,3 @@
+/Users/ahmeteminguclu/CLionProjects/Stripe Fees Calculator/cmake-build-debug/CMakeFiles/untitled1.dir
+/Users/ahmeteminguclu/CLionProjects/Stripe Fees Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ahmeteminguclu/CLionProjects/Stripe Fees Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
